@@ -22,8 +22,8 @@ $count = $_POST['count'];
 $api = "statuses_userTimeline";//$_POST['api'];
 */
 
-$q = "%23QWINIXHACKATHON OR %23HACK4MYSORE OR %23IHACKED4MYSURU";
-$count = 21;
+$q = "%23QWINIXHACKATHON OR %23HACK4MYSORE OR %23IHACKED4MYSURU OR %23hackformysuru";
+$count = 40;
 $api = "search_tweets";
 
 //https://dev.twitter.com/docs/api/1.1/get/statuses/user_timeline
